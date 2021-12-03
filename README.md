@@ -14,8 +14,8 @@ applications while preserving the valuable information contained in them.
 ![block_diagram](https://github.com/pranjalibajpai/underwater-image-enhancement/blob/main/images/block_diagram.png)
 
 ## Results
-![block_diagram](https://github.com/pranjalibajpai/underwater-image-enhancement/blob/main/images/result1.png)
-![block_diagram](https://github.com/pranjalibajpai/underwater-image-enhancement/blob/main/images/result2.png)
+![block_diagram](https://github.com/pranjalibajpai/underwater-image-enhancement/blob/main/images/result1.PNG)
+![block_diagram](https://github.com/pranjalibajpai/underwater-image-enhancement/blob/main/images/result2.PNG)
 
 
 
