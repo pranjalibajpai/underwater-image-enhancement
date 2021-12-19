@@ -34,8 +34,8 @@ def about():
     with st.expander("Block Diagram"):
         st.image('./images/block_diagram.png', use_column_width=True)
     with st.expander("Results On Sample Images"):
-        st.image('./images/result1.png', use_column_width=True)
-        st.image('.images//result2.png', use_column_width=True)
+        st.image('./images/result1.PNG', use_column_width=True)
+        st.image('.images//result2.PNG', use_column_width=True)
     with st.expander("Team Members"):
         st.write("""Pranjali Bajpai - 2018EEB1243
                     \n\nYogesh Vaidhya - 2018EEB1277""")
