@@ -32,10 +32,10 @@ def about():
                 images need enhancement to improve the quality of images to be used for various
                 applications while preserving the valuable information contained in them.""")
     with st.expander("Block Diagram"):
-        st.image('block_diagram.png', use_column_width=True)
+        st.image('./block_diagram.png', use_column_width=True)
     with st.expander("Results On Sample Images"):
-        st.image('result1.png', use_column_width=True)
-        st.image('result2.png', use_column_width=True)
+        st.image('./result1.png', use_column_width=True)
+        st.image('./result2.png', use_column_width=True)
     with st.expander("Team Members"):
         st.write("""Pranjali Bajpai - 2018EEB1243
                     \n\nYogesh Vaidhya - 2018EEB1277""")
